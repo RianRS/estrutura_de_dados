@@ -4,7 +4,7 @@
 # (b) Estruturas condicionais e de repetição.
 # (c) Hierárquicas e de sequências.
 # (d) Lineares, hierárquicas e grafos.
-# RESPOSTA: item(d)
+# RESPOSTA: item(a)
 
 
 

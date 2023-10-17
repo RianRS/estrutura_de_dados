@@ -20,3 +20,4 @@ print(lyst1 == lyst2)
 # (b) O( n** 3) > O(ln(n)) > O(nln(n)) > O(1).
 # (c) O(2n) > O(n ** 3) > O(nln(n)) > O(ln(n)).
 # (d) O(n ** 3) > O(n ** 2) > O(ln(1)) > O(1).
+# RESPOSTA: item(c)

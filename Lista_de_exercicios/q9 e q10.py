@@ -5,9 +5,9 @@
 # (c) O(n * c ** n).
 
 # RESPOSTA:
-# item(a) =
-# item(b) =
-# item(c) =
+# item(a) = O(n * (n ** c))
+# item(b) = O(ln(n))
+# item(c) = n * O(c ** n)
 
 
 
@@ -17,4 +17,5 @@
 # comandos push() e pop() como no modelo anterior.
 
 # RESPOSTA:
-#
+f = []
+f.append('a')

@@ -17,4 +17,4 @@ funcao(10, 100)
 # (c) Unidades unicamente estáticas.
 # (d) Um tipo particular de célula de memória.
 
-#RESPOSTA: item(a)
+#RESPOSTA: item(b)
