@@ -10,7 +10,7 @@ print(lyst1 == lyst2)
 # em um conjunto também está no outro conjunto.
 # (c) Retorna saída False para todos os itens posição à posição.
 # (d) Compara o tamanho dos dois conjuntos em questão.
-# RESPOSTA: item(b)
+# RESPOSTA: item(a)
 
 
 'Questão 8'

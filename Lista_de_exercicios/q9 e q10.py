@@ -18,4 +18,16 @@
 
 # RESPOSTA:
 f = []
-f.append('a')
+
+f.append('x')
+f.append('w')
+f.append('k')
+f.pop()
+f.pop()
+f.append('x')
+f.append('w')
+f.append('k')
+f.append('y')
+f.append('z')
+
+print(f)
